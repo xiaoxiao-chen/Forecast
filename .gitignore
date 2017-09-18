@@ -240,4 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+<<<<<<< HEAD
+=======
+Forecast/data/15_data.csv
+>>>>>>> origin/xiaoxiao
 *.csv
